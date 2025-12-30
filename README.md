@@ -1,16 +1,43 @@
-# xylophone_app
+# Animal Sound App
 
-A new Flutter project.
+A simple and interactive Flutter application that helps users learn animal sounds.
 
-## Getting Started
+## About the App
+This app displays the name of an animal at the top of the screen.
+The user must tap the correct animal button to hear its sound.
 
-This project is a starting point for a Flutter application.
+## Features
+- Random animal selection
+- Animal sound playback
+- Emoji-based animal buttons
+- Clean and simple user interface
 
-A few resources to get you started if this is your first Flutter project:
+## Animals Included
+- Dog
+- Cat
+- Cow
+- Horse
+- Bird
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+- Flutter
+- Dart
+- audioplayers
+
+## Assets
+Animal sounds are stored in:
+assets/audio/
+
+
+## How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
+
+## Purpose
+This project was created as a university homework assignment.
+
+Sounds used are free and downloaded from Pixabay.
+
+
